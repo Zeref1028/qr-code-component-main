@@ -1,1 +1,1 @@
-I dont know yet how to add a readme file, im just a new in github hehe.
+I dont know yet how to add a readme file, im just a new in github hehe. There`s a template inside the folder but i dont know how to use it or even insert an image. If there is anyone kind here to help me how to do it or give me some guidance Ill appreciate it a lot.
